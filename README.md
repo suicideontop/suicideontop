@@ -15,20 +15,6 @@
     </a>
 </p>
 &nbsp;
-<p align="center">
-    <a href="https://github.com/suicideontop/">
-        <img src="./assets/icons/other/github-solid.svg/" width="25px" />
-    </a>
-    &nbsp;
-    <a href="https://discord.com/users/1088191181873221692">
-        <img src="./assets/icons/other/discord-solid.svg/" width="25px" />
-    </a>
-    &nbsp;
-    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-        <img src="./assets/icons/other/youtube-solid.svg/" width="25px" />
-    </a>
-    
-</p>
 <hr/>
 <p align="center">
     <a href="https://github.com/suicideontop/">
